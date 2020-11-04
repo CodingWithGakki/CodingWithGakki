@@ -11,6 +11,7 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2021 goal</b></summary>
+  <summary><b>:telescope: 2021 goal</b></summary>  
+
   I want to be a real guy ٩(˃̶͈̀௰˂̶͈́)و
 </details>
