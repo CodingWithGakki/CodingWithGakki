@@ -11,7 +11,7 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2021 goal</b></summary>  
-  Become a super big brother who can be independent。
+  <summary><b>:telescope: 2021 goal</b></summary>  <br>
+  Become a super big brother who can be independent。<br>
   And make a lot of money ٩(˃̶͈̀௰˂̶͈́)و
 </details>
